@@ -12,4 +12,3 @@ Depends: R6,
     httr,
     rjson
 RoxygenNote: 6.0.1
-
